@@ -13,3 +13,9 @@ eureka:
 spring:
   application:
     name: eureka-server
+  boot:
+    admin:
+      client:
+        url: http://localhost:8004
+
+
