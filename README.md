@@ -18,4 +18,10 @@ rabbitmq:
     120.79.23.207
         5673->5672
         15673->15672
-        guest/guest
+        liuye/liuye
+       
+
+mongodb:
+    120.79.23.207
+        27017->27017
+        admin->sdyin
