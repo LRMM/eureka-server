@@ -28,3 +28,6 @@ mongodb:
         
 hadoop:
     http://120.79.33.160:50070/
+    
+elasticsearch:
+    http://120.79.23.207:9200
