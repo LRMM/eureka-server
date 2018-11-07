@@ -31,3 +31,12 @@ hadoop:
     
 elasticsearch:
     http://120.79.23.207:9200
+
+mysql主从
+    master 47.107.124.85 3306 root/root test/123456
+    slave  47.107.124.85 3307 root/root
+    
+zookeeper 集群
+    47.107.124.85 2181
+    47.107.124.85 2182
+    47.107.124.85 2183
