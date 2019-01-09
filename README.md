@@ -27,7 +27,7 @@ mongodb:
         admin->sdyin
         
 hadoop:
-    http://120.79.33.160:50070/
+    http://120.79.33.160:50070/ (阿里云已过期)
     
 elasticsearch:
     http://120.79.23.207:9200
